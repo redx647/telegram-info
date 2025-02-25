@@ -1,7 +1,7 @@
 # Telegram User Information
 Useful tool to Telegram User Information Tool 🔥 
 
-<img src="https://github.com/HunxByts/Red-XTrack/blob/main/asset/bn.png"/>
+<img src="https://raw.githubusercontent.com/redx647/telegram-info/refs/heads/main/IMG_20250225_144029.jpg"/>
 
 ### Instalation on Linux (deb)
 ```
