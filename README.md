@@ -1,10 +1,7 @@
-# GhostTrack
-Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
+# Telegram User Information
+Useful tool to Telegram User Information Tool 🔥 
 
 <img src="https://github.com/HunxByts/Red-XTrack/blob/main/asset/bn.png"/>
-
-New update :
-```Version 2.2```
 
 ### Instalation on Linux (deb)
 ```
