@@ -17,12 +17,11 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
-cd GhostTrack
-pip3 install -r requirements.txt
-python3 GhostTR.py
+git clone https://github.com/redx647/telegram-info.git
+cd telegram-info
+python UserInfo@REDX_64.py
 ```
 <br>
-<h3><b><i>🤠 Devolopers :</i></b></h3>
-<li> <i><a href="https://www.facebook.com/ashrafiabir04">Ashrafi Abir (DarkXploit)</a></i></li>
-<li>  <i><a href="https://www.facebook.com/tanvirmahamud.shariful.3">Tanvir Mahamud Shariful (DarkWlof)</a></i></li>
+<h3><b><i>🤠 Devoloper Channels :</i></b></h3>
+<li> <i><a href="https://t.me/REDX_64">Devoloper</a></i></li>
+<li>  <i><a href="https://t.me/REDX_HACKIN">Red-X Hacking</a></i></li>
