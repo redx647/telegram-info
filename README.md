@@ -1,6 +1,8 @@
 # Telegram User Information
 Useful tool to Telegram User Information Tool 🔥 
 
+𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁
+
 <img src="https://raw.githubusercontent.com/redx647/telegram-info/refs/heads/main/IMG_20250225_144029.jpg"/>
 
 ### Instalation on Linux (deb)
